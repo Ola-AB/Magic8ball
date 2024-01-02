@@ -21,6 +21,8 @@ Celem projektu było stworzenie aplikacji generującej odpowiedzi na zadane pyta
 
 Linkedin - [Olga Burkiewicz](https://www.linkedin.com/in/olga-burkiewicz-990058a4/)
 
+
+
 **Przegląd:**
 
 
