@@ -1,3 +1,8 @@
+**O projekcie:**
+
+Celem projektu było stworzenie aplikacji generującej odpowiedzi na zadane pytanie.
+
+
 **Cechy:**
 
 
@@ -6,10 +11,12 @@
 3.	Utworzono tablicę z odpowiedziami, które mają przypisany indeks. Za pomocą funkcji generateAnsewear losujemy przykładowe odpowiedzi.
 4.	Zabezpieczenie w postaci sprawdzenia czy input nie jest pusty oraz czy  pytanie zawiera znak zapytania na końcu.
 5.	Poprawnie zadane pytanie wywołuje animację oraz wywołuje funkcję pokazującą odpowiedź w paragrafie.
+   
 
 **Zastosowane technologie:** 
 
 ![ikony_js](https://github.com/Ola-AB/Magic8ball/assets/142878084/5830e275-1d45-47e5-a94d-0910f80f6999)
+
 **Autor:**
 
 Linkedin - [Olga Burkiewicz](https://www.linkedin.com/in/olga-burkiewicz-990058a4/)
