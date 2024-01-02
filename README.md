@@ -8,7 +8,7 @@ Celem projektu było stworzenie aplikacji generującej odpowiedzi na zadane pyta
 
 1.	Aplikacja została zbudowana na podstawie podanego przykładu.
 2.	Zabezpieczenie w postaci wymogu znaku zapytania po wpisaniu pytania.
-3.	Utworzono tablicę z odpowiedziami, które mają przypisany indeks. Za pomocą funkcji generateAnsewear losujemy przykładowe odpowiedzi.
+3.	Utworzono tablicę z odpowiedziami, które mają przypisany indeks. Za pomocą funkcji generateAnswear losujemy przykładowe odpowiedzi.
 4.	Zabezpieczenie w postaci sprawdzenia czy input nie jest pusty oraz czy  pytanie zawiera znak zapytania na końcu.
 5.	Poprawnie zadane pytanie wywołuje animację oraz wywołuje funkcję pokazującą odpowiedź w paragrafie.
    
